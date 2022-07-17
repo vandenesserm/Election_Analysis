@@ -74,6 +74,7 @@ Tools and Software: Visual Studio Code, Python 3.7.6, Gitbash, and Github.
 
  - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
     Diana DeGetter was the winner candidate with 272,892 votes, which is equivalent to 73.8% of the total votes cast.
+    
         -------------------------
         Winner: Diana DeGette
         Winning Vote Count: 272,892
